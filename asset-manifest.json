@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/surfto-web-browser-react/static/css/main.58abf66f.css",
+    "main.js": "/surfto-web-browser-react/static/js/main.25790a32.js",
+    "static/media/loading.gif": "/surfto-web-browser-react/static/media/loading.afeefc984f4cc87a4c69.gif",
+    "index.html": "/surfto-web-browser-react/index.html",
+    "main.58abf66f.css.map": "/surfto-web-browser-react/static/css/main.58abf66f.css.map",
+    "main.25790a32.js.map": "/surfto-web-browser-react/static/js/main.25790a32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58abf66f.css",
+    "static/js/main.25790a32.js"
+  ]
+}
